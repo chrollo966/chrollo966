@@ -1,1 +1,1 @@
-I'm now developing a website.
+I'm now learning Rust.
